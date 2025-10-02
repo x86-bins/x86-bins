@@ -28,17 +28,9 @@
 
 ### 📫 Get in Touch  
 - 🌐 Website: [trivox.sh](https://trivox.sh)  
-- 💼 LinkedIn: *[Add your LinkedIn link here]*  
-- ✉️ Email: *[Add your contact email here]*  
-
+- 🌐 Website: [nucez.com](https://nucez.com)
+- 🌐 Website: [rack-planner.xyz](https://rack-planner.xyz)
 ---
 
-## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=x86-bins&show_icons=true&hide=contribs,issues&show=prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x86-bins&theme=dark&layout=donut" />
-</a>
 
 ⭐️ *Always building, always learning.*  
